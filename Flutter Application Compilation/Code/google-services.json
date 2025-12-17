@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611164935318",
+    "project_id": "exotic-birds-classifier",
+    "storage_bucket": "exotic-birds-classifier.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611164935318:android:b38e07ec27ea47ef7b9eb7",
+        "android_client_info": {
+          "package_name": "com.birdclassifier.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxqPLQudv8ni6c1APxXQT20yyYhk_JTlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
